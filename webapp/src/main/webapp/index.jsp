@@ -4,23 +4,23 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter your Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile number</b></label>
+    <label for="mobile"><b>Enter your mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email id</b></label>
+    <label for="email"><b>Enter your Email id</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Enter Password</b></label>
+    <label for="psw"><b>Enter your Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Re-enter Password</b></label>
+    <label for="psw-repeat"><b>Re-enter your Password</b></label>
     <input type="password" placeholder="Re-enter Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
@@ -31,7 +31,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you</h1>
+   <h1> Thank you....</h1>
 
   
 </form>
+
+
