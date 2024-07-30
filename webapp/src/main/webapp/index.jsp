@@ -13,7 +13,7 @@
     <br>
 
     <label for="email"><b>Enter Email id</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Email id" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Enter Password</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you and see you as user!</h1>
+   <h1> Thank you..!</h1>
 
   
 </form>
