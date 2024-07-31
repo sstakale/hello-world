@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user registration</h1>
-    <p>Please fill this form .</p>
+    <p>Please fill this form to learn CICD concepts.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
