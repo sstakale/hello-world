@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user registration</h1>
-    <p>Please fill this form to learn CICD concepts.</p>
+    <p>Please fill this form to learn CICD concepts in DevOps.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you.. Have a great day ahead..!</h1>
+   <h1> Thank you.. Have a great day ahead..! Keep learning !</h1>
 
   
 </form>
